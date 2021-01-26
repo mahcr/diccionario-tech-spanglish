@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "diccionario"
+  "defaultProject": "diccionario",
+  "cli": {
+    "analytics": "b131dbf6-8075-4f78-827d-7b762db0dbc3"
+  }
 }
